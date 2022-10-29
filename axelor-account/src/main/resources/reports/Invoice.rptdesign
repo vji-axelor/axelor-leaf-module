@@ -2148,28 +2148,7 @@ where Invoice.id = ?]]></xml-property>
                         <text-property name="text">Kota Kemuning 40460 Shah Alam Selangor Malaysia</text-property>
                     </label>
                 </cell>
-                <cell id="174">
-                    <label id="175">
-                        <property name="fontSize">11pt</property>
-                        <property name="marginTop">38pt</property>
-                        <text-property name="text">Customer Signature :_____________________</text-property>
-                    </label>
-                    <label id="176">
-                        <property name="fontSize">11pt</property>
-                        <property name="marginTop">3pt</property>
-                        <text-property name="text">DATE : _______________________________</text-property>
-                    </label>
-                    <label id="177">
-                        <property name="fontSize">11pt</property>
-                        <property name="marginTop">3pt</property>
-                        <text-property name="text">Full Name: ____________________________</text-property>
-                    </label>
-                    <label id="178">
-                        <property name="fontSize">11pt</property>
-                        <property name="marginTop">4pt</property>
-                        <text-property name="text">IC numbers :___________________________</text-property>
-                    </label>
-                </cell>
+                <cell id="174"/>
             </row>
         </grid>
     </body>
